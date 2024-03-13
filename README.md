@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="./HEADER.svg"></img>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alen-mon&count_private=true&show_icons=true"></p>
@@ -33,9 +33,8 @@
 <a href="https://www.linkedin.com/in/alen-morres/"><img width="30px" src="https://simpleicons.org/icons/keybase.svg" alt="Keybase"><a><span>&nbsp;</span><span>&nbsp;</span>
 </p>
                                                                                                                          
-
-
-**Hi, I'm Alen Mon!**
+### Hi there 👋
+**I'm Alen Mon!**
 
 **About Me**
 A passionate tech enthusiast exploring the Technosophical world. I enjoy getting my hands on new technologies and devising innovative solutions . When I'm not immersed in coding, I indulge in my love for travel, electronics tinkering, and creating new things.
